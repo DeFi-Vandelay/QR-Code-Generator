@@ -1,0 +1,43 @@
+*,
+*:after,
+*:before {
+  box-sizing: border-box;
+}
+:root {
+  --bg: radial-gradient(ellipse at center, #b7b7f1 0%, #585555 100%);
+}
+body,
+
+/* Make the QR Code White */
+
+#app {
+  background: var(--bg);
+  min-height: 100vh;
+  min-width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+@media (prefers-color-scheme: dark) {
+  body,
+  #app {
+    --bg: radial-gradient(ellipse at center, #232333 0%, #161616 100%);
+  }
+}
+.qr-code {
+  height: 45vmin;
+  width: 45vmin;
+  cursor: none;
+}
+
+h1 {
+  font-size: 1rem;
+  color: rgb(0, 0, 0);
+  z-index: 999;
+  position: absolute;
+  bottom: 10px; /* Adjust this value as needed */
+  left: 50%;
+  transform: translateX(-50%);
+  font-family: "Source Code Pro", monospace;
+}
