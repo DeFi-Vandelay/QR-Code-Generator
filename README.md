@@ -1,6 +1,6 @@
-# 3D Custom Personalized QR Code Generator
+# Art.V // 3D-QR Code Tool
 
-Gm Frens! Here is a 3D Customizable QR Code Generator. Woo! This tool allows you to create 3D QR codes that can be easily customized and integrated into your projects. As Always, this generator is free and accessible to all.
+A 3D Customizable QR Code Generator. Woo! This tool allows you to create 3D QR codes that can be easily customized and integrated into your projects. As Always, this generator is free and accessible to all.
 
 ## Author
 
@@ -16,9 +16,13 @@ Website: [arthurvandelay.dev](https://arthurvandelay.dev)
 - Built using modern technologies such as React, GSAP, and Three.js.
 - Easy-to-use GUI for customizing QR codes.
 
-## Live Demo
+## Live Demo // Coming Soon
 
-A live demo of the QR Code Generator will be hosted on [arthurvandelay.dev](https://arthurvandelay.dev).
+A live demo of the QR Code Generator will soon be hosted on [arthurvandelay.dev](https://arthurvandelay.dev).
+Refer below for a visual demonstration of the component:
+
+https://github.com/user-attachments/assets/de960d23-4333-418e-bc41-ec0d9a773cef
+
 
 ## Installation
 
