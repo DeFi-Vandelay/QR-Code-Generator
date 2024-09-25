@@ -1,6 +1,6 @@
 # Art.V // 3D-QR Code Tool
 
-A 3D Customizable QR Code Generator.. Woo! This tool allows you to create 3D QR codes that can be easily customized and integrated into your projects. As Always, this generator is free and accessible to all.
+A 3D Customizable QR Code Generator.. Woo! This tool allows you to create 3D QR codes that can be easily customized and integrated into your projects. As Always, this generator is free and accessible to all!
 
 ## Author
 
