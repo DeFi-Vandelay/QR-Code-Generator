@@ -14,7 +14,7 @@ Website: [vandelay tech website](https://vandelaytechnologies.io)
 
 ## Features
 
-- Create custom 3D QR codes with personalized URLs.
+- Create custom 3D QR codes with personalized URLs
 - Responsive design that adapts to light and dark modes.
 - Built using modern technologies such as React, GSAP, and Three.js.
 - Easy-to-use GUI for customizing QR codes.
