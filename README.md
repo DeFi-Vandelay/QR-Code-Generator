@@ -45,8 +45,6 @@ To run the QR Code Generator locally, follow these steps:
 
 ## Usage
 
-Once you have the generator open in your browser, follow these steps:
-
 1. Enter the URL you want to encode in the QR code.
 2. The QR code will be generated and displayed in 3D.
 3. Interact with the QR code by hovering or clicking to see animations.
