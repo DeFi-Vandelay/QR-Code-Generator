@@ -76,5 +76,5 @@ If you have any questions or need further assistance, feel free to reach out to 
 
 Happy coding!
 
-Arthur Vandelay  
+Arthur Vandelay  -  Vandelay Technologies
 [arthurvandelay.dev](https://arthurvandelay.dev)
