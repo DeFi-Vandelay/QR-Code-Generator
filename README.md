@@ -9,6 +9,9 @@ GitHub: [@defi-vandelay](https://github.com/defi-vandelay)
 Email: [info@arthurvandelay.dev](mailto:info@arthurvandelay.dev)  
 Website: [arthurvandelay.dev](https://arthurvandelay.dev)
 
+**Vandelay Technologies**
+Website: [vandelay tech website](https://vandelaytechnologies.io)
+
 ## Features
 
 - Create custom 3D QR codes with personalized URLs.
